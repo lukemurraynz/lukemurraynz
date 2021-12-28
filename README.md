@@ -29,7 +29,7 @@ Chat with me on Twitter or connect on LinkedIn
 	<a href="https://twitter.com/lukemurraynz"><img src="https://img.shields.io/twitter/follow/lukemurraynz?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/ljmurray/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	<a href="https://www.linkedin.com/in/ljmurray/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-	<img alt="Website" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fluke.geek.nz%2F">
+	<a href="https://luke.geek.nz"><img alt="Website" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fluke.geek.nz%2F"></a>
 	</p>
 <!--
 **LucioMSP/LucioMSP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
