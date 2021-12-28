@@ -1,6 +1,7 @@
 ![11-background (1)](https://media-exp1.licdn.com/dms/image/C5616AQH7QjpnLzAwLw/profile-displaybackgroundimage-shrink_350_1400/0/1616572307302?e=1646265600&v=beta&t=58uifxXTh9FvM2JQg6R-dCIpGRk9BR1wLMK4eszm6qo)
 
 # Hi, I'm Luke Murray 👋🏽 👨🏽‍💻
+
 ---
 
 Information systems professional with experience in support, maintenance and technical delivery in enterprise environments. I am skilled in working with business stakeholders; other IS teams and service providers to achieve business outcomes. 
@@ -10,6 +11,7 @@ I have a passion for not only the technical but service management and soft skil
 You'll here find my public and forked repositories. Feel free to contact me if you have any suggestions or questions.
 
 ---
+
 🧰 Toolbox
 <!--Toolbox icons -->
 ![Microsoft Azure](https://img.shields.io/badge/microsoft-azure.svg?style=for-the-badge&logo=microsoft-azure&color=1572B6)
@@ -17,10 +19,13 @@ You'll here find my public and forked repositories. Feel free to contact me if y
 ![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
 ![PowerShell](https://img.shields.io/badge/microsoft-powershell.svg?style=for-the-badge&logo=powershell&color=FFFFFF)
 ![WindowsServer](https://img.shields.io/badge/microsoft-windows.svg?style=for-the-badge&logo=windows&color=000000)
+
 ---
+
 ![Luke's github top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lukemurraynz&show_icons=true)
 
 ![Luke's github stats](https://github-readme-stats.vercel.app/api?username=lukemurraynz&show_icons=true)
+
 ---
 
 Chat with me on Twitter or connect on LinkedIn
