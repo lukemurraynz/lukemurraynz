@@ -22,7 +22,7 @@ You'll here find my public and forked repositories. Feel free to contact me if y
 
 ---
 
-![Luke's github top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lukemurraynz&show_icons=true)
+![Luke's github top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lukemurraynz&show_icons=true&langs_count=8)
 
 ![Luke's github stats](https://github-readme-stats.vercel.app/api?username=lukemurraynz&show_icons=true&count_private=true)
 
