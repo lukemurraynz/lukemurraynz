@@ -12,7 +12,7 @@ You'll here find my public repositories. Feel free to contact me if you have any
 
 Chat with me on Twitter or connect on LinkedIn
 <p align="left">
-	<a href="https://twitter.com/lukemurraynz"><img src="https://img.shields.io/twitter/follow/adiazcan?label=Twitter&style=social" alt="Twitter"></a>
+	<a href="https://twitter.com/lukemurraynz"><img src="https://img.shields.io/twitter/follow/lukemurraynz?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/ljmurray/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
