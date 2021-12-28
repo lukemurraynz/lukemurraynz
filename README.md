@@ -6,7 +6,8 @@
 Information systems professional with experience in support, maintenance and technical delivery in enterprise environments. I am skilled in working with business stakeholders; other IS teams and service providers to achieve business outcomes. 
 
 I have a passion for not only the technical but service management and soft skills such as leading others as well. I am continuously learning and looking for areas of improvement! Information Technology and the way it can empower and help improve our lives; it is not just a career to me it is a hobby and way of life.
-You'll here find my public repositories. Feel free to contact me if you have any suggestions or questions.
+
+You'll here find my public and forked repositories. Feel free to contact me if you have any suggestions or questions.
 
 ---
 🧰 Toolbox
