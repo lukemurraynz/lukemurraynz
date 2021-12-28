@@ -1,4 +1,4 @@
-![11-background (1)](https://media-exp1.licdn.com/dms/image/C5616AQH7QjpnLzAwLw/profile-displaybackgroundimage-shrink_350_1400/0/1616572307302?e=1646265600&v=beta&t=58uifxXTh9FvM2JQg6R-dCIpGRk9BR1wLMK4eszm6qo)
+![11-background (1)](https://raw.githubusercontent.com/lukemurraynz/lukemurraynz/master/azurebanner.jpg)
 
 # Hi, I'm Luke Murray <img src="https://raw.githubusercontent.com/lukemurraynz/lukemurraynz/master/wave.gif" width="30px"> <img src="https://raw.githubusercontent.com/lukemurraynz/lukemurraynz/master/computer-internet.gif " width="30px">
 
