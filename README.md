@@ -1,6 +1,6 @@
 ![11-background (1)](https://media-exp1.licdn.com/dms/image/C5616AQH7QjpnLzAwLw/profile-displaybackgroundimage-shrink_350_1400/0/1616572307302?e=1646265600&v=beta&t=58uifxXTh9FvM2JQg6R-dCIpGRk9BR1wLMK4eszm6qo)
 
-# Hi, I'm Luke Murray 👋🏽 👨🏽‍💻
+# Hi, I'm Luke Murray <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">👨🏽‍💻
 
 ---
 
