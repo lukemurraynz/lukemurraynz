@@ -16,7 +16,8 @@ You'll here find my public and forked repositories. Feel free to contact me if y
 <!--Toolbox icons -->
 ![Microsoft Azure](https://img.shields.io/badge/microsoft-azure.svg?style=for-the-badge&logo=microsoft-azure&color=1572B6)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Github Pages](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
+![Git](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
+![GitHub Pages](https://img.shields.io/badge/githubpages-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
 ![PowerShell](https://img.shields.io/badge/microsoft-powershell.svg?style=for-the-badge&logo=powershell&color=FFFFFF)
 ![WindowsServer](https://img.shields.io/badge/microsoft-windows.svg?style=for-the-badge&logo=windows&color=000000)
 
