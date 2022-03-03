@@ -43,5 +43,11 @@ Chat with me on Twitter or connect on LinkedIn
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=lukemurraynz&layout=wide)](https://github.com/gazf/github-readme-twitter)
 
 ## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START --><table style="width:100%"><tr><td style="width:150px"><a href="https://luke.geek.nz/azure/native-rdp-client-azure-bastion/"><img width="280px" src=""></a></td><td><a href="https://luke.geek.nz/azure/native-rdp-client-azure-bastion/">Native RDP Client & Azure Bastion</a> | Feb 15, 2022 <br> In early February 2022, Azure Bastion Preview support for the native Windows SSH and RDP client came...</td></tr></table>
+<table style="width:100%"><tr><td style="width:150px"><a href="https://luke.geek.nz/azure/azurefeeds/"><img width="280px" src=""></a></td><td><a href="https://luke.geek.nz/azure/azurefeeds/">AzureFeeds</a> | Feb 10, 2022 <br> Over the past few months, I have been busy working on a new project…
+
+A news aggregator for Azure ne...</td></tr></table>
+<table style="width:100%"><tr><td style="width:150px"><a href="https://luke.geek.nz/azure/azure-vm-application-deployment/"><img width="280px" src=""></a></td><td><a href="https://luke.geek.nz/azure/azure-vm-application-deployment/">Datto Remote Management Azure VM Application Deployment</a> | Feb 4, 2022 <br> The Azure Compute Gallery (superseded the Shared Image Gallery) offers more than just Azure Image ma...</td></tr></table>
+<table style="width:100%"><tr><td style="width:150px"><a href="https://luke.geek.nz/azure/just-in-time-access-to-azure-virtual-machines/"><img width="280px" src=""></a></td><td><a href="https://luke.geek.nz/azure/just-in-time-access-to-azure-virtual-machines/">Just in Time access to Azure Virtual Machines</a> | Jan 27, 2022 <br> Microsoft Defender for Cloud offers advanced security features, combining functions such as adaptive...</td></tr></table>
+<table style="width:100%"><tr><td style="width:150px"><a href="https://luke.geek.nz/azure/application-security-groups-in-microsoft-azure/"><img width="280px" src=""></a></td><td><a href="https://luke.geek.nz/azure/application-security-groups-in-microsoft-azure/">Application Security Groups in Microsoft Azure</a> | Jan 20, 2022 <br> Azure Application Security Groups (ASG) allow you to define what workloads (Virtual Machines) you ar...</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
