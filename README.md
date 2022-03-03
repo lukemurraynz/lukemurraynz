@@ -41,3 +41,7 @@ Chat with me on Twitter or connect on LinkedIn
 [<img src="https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/lukemurraynz?ref_src=twsrc%5Etfw")
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=lukemurraynz&layout=wide)](https://github.com/gazf/github-readme-twitter)
+
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
