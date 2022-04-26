@@ -41,7 +41,7 @@ You'll here find my public and forked repositories. Feel free to contact me if y
 <a href="https://www.linkedin.com/in/ljmurray/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-lukemurraynz-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.twitter.com/lukemurraynz/"><img alt="LinkedIn" src="https://img.shields.io/badge/Twitter-lukemurraynz-blue?style=flat-square&logo=twitter"></a>
 <a href="https://www.youtube.com/channel/UCUG3TKDTAZz4UXshGrjBBoQ"><img alt="Youtube" src="https://img.shields.io/badge/youtube-lukemurraynz-blue?style=flat-square&logo=youtube"></a>
-  <a href="https://linktr.ee/lukemurray"><img alt="LinkTree" src="https://img.shields.io/badge/website-lukemurray-blue?style=flat-square&logo=website"></a>
+  <a href="https://linktr.ee/lukemurray"><img alt="LinkTree" src="https://img.shields.io/badge/website-lukemurray-blue?style=flat-square&logo=linktr"></a>
 
 ## 🐦 Latest Tweets
 
