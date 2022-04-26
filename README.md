@@ -1,6 +1,5 @@
 ![11-background (1)](https://raw.githubusercontent.com/lukemurraynz/lukemurraynz/master/azurebanner.jpg)
 
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=lukemurraynz.visitor-badge)
 ![GitHub followers](https://img.shields.io/github/followers/lukemurraynz?style=social)
 
@@ -8,7 +7,7 @@
 
 ---
 
-Information systems professional with experience in support, maintenance and technical delivery in enterprise environments. I am skilled in working with business stakeholders; other IS teams and service providers to achieve business outcomes. 
+Information systems professional with experience in support, maintenance and technical delivery in enterprise environments. I am skilled in working with business stakeholders; other IS teams and service providers to achieve business outcomes.
 
 I have a passion for not only the technical but service management and soft skills such as leading others as well. I am continuously learning and looking for areas of improvement! Information Technology and the way it can empower and help improve our lives; it is not just a career to me it is a hobby and way of life.
 
@@ -33,7 +32,6 @@ You'll here find my public and forked repositories. Feel free to contact me if y
 
 ---
 
-
 ## 🤝🏻 Let's Keep in Touch
 
 <p align="left">
@@ -41,7 +39,7 @@ You'll here find my public and forked repositories. Feel free to contact me if y
 <a href="https://www.linkedin.com/in/ljmurray/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-lukemurraynz-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.twitter.com/lukemurraynz/"><img alt="LinkedIn" src="https://img.shields.io/badge/Twitter-lukemurraynz-blue?style=flat-square&logo=twitter"></a>
 <a href="https://www.youtube.com/channel/UCUG3TKDTAZz4UXshGrjBBoQ"><img alt="Youtube" src="https://img.shields.io/badge/youtube-lukemurraynz-blue?style=flat-square&logo=youtube"></a>
-  <a href="https://linktr.ee/lukemurray"><img alt="linktr" src="https://img.shields.io/badge/website-lukemurray-blue?style=flat-square&logo=linktr"></a>
+<a href="https://linktr.ee/lukemurray"><img alt="linktr" src="https://img.shields.io/badge/linktr-lukemurray-blue?style=flat-square&logo=linktr"></a>
 
 ## 🐦 Latest Tweets
 
