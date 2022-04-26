@@ -33,12 +33,15 @@ You'll here find my public and forked repositories. Feel free to contact me if y
 
 ---
 
-Chat with me on Twitter or connect on LinkedIn
+
+## 🤝🏻 Let's Keep in Touch
+
 <p align="left">
-	<a href="https://twitter.com/lukemurraynz"><img src="https://img.shields.io/twitter/follow/lukemurraynz?label=Twitter&style=social" alt="Twitter"></a>
-	<a href="https://www.linkedin.com/in/ljmurray/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-	<a href="https://luke.geek.nz"><img alt="Website" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fluke.geek.nz%2F"></a>
-	</p>
+<a href="https://luke.geek.nz/"><img alt="Website" src="https://img.shields.io/badge/Website-luke.geek.nz-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/ljmurray/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-lukemurraynz-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.twitter.com/lukemurraynz/"><img alt="LinkedIn" src="https://img.shields.io/badge/Twitter-lukemurraynz-blue?style=flat-square&logo=twitter"></a>
+
+
 
 ## 🐦 Latest Tweets
 
