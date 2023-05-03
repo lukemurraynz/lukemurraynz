@@ -40,9 +40,3 @@ You'll here find my public and forked repositories. Feel free to contact me if y
 <a href="https://www.twitter.com/lukemurraynz/"><img alt="LinkedIn" src="https://img.shields.io/badge/Twitter-lukemurraynz-blue?style=flat-square&logo=twitter"></a>
 <a href="https://www.youtube.com/channel/UCUG3TKDTAZz4UXshGrjBBoQ"><img alt="Youtube" src="https://img.shields.io/badge/youtube-lukemurraynz-blue?style=flat-square&logo=youtube"></a>
 <a href="https://linktr.ee/lukemurray"><img alt="linktr" src="https://img.shields.io/badge/linktr-lukemurray-blue?style=flat-square&logo=linktr"></a>
-
-## 🐦 Latest Tweets
-
-[<img src="https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/lukemurraynz?ref_src=twsrc%5Etfw")
-
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=lukemurraynz&layout=wide)](https://github.com/gazf/github-readme-twitter)
