@@ -16,7 +16,7 @@
   
 ## 🚀 About Me
 
-**Infrastructure, Security, Modern Workplace Service Lead @ HSO | DevOps Engineer | Microsoft Azure Expert | Microsoft Azure MVP**
+**Infrastructure, Security, Modern Workplace Service Lead @ HSO | DevOps and Platform Engineering | Microsoft Azure Expert | Microsoft Azure MVP**
 
 </div>
 
