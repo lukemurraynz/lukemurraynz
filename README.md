@@ -16,13 +16,13 @@
   
 ## 🚀 About Me
 
-**Cloud Solutions Architect | DevOps Engineer | Microsoft Azure Expert**
+**Infrastructure, Security, Modern Workplace Service Lead @ HSO | DevOps Engineer | Microsoft Azure Expert | Microsoft Azure MVP**
 
 </div>
 
 I'm an experienced information systems professional with a passion for cloud technologies, automation, and empowering organizations through digital transformation. With deep expertise in Microsoft Azure, DevOps practices, and modern infrastructure solutions, I help businesses achieve scalable, efficient, and secure cloud operations.
 
-Beyond the technical realm, I'm passionate about knowledge sharing, continuous learning, and building communities. I believe technology should not just be a career but a way to make a positive impact on people's lives.
+Beyond the technical realm, I'm passionate about knowledge sharing, continuous learning, and building communities. Technology should not just be a career but a way to make a positive impact on people's lives.
 
 You'll find my public repositories, contributions, and experiments here. Feel free to reach out if you have suggestions, questions, or opportunities to collaborate!
 
@@ -32,15 +32,15 @@ You'll find my public repositories, contributions, and experiments here. Feel fr
 
 ### ☁️ Cloud & Infrastructure
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Bicep](https://img.shields.io/badge/Bicep-0078D4?style=for-the-badge&logo=bicep&logoColor=white)
+
 
 ### 🔧 DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### 💻 Development & Scripting
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
