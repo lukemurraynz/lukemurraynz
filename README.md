@@ -59,12 +59,6 @@ You'll find my public repositories, contributions, and experiments here. Feel fr
 
 <div align="center">
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lukemurraynz&theme=dark&hide_border=true)
-
-</div>
-
-<div align="center">
-  
 ![Luke's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukemurraynz&show_icons=true&theme=dark&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lukemurraynz&theme=dark&hide_border=true&layout=compact&langs_count=8)
 
