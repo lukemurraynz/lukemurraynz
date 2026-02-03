@@ -16,11 +16,11 @@
   
 ## 🚀 About Me
 
-**Infrastructure, Security, Modern Workplace Service Lead @ HSO | Microsoft Azure MVP | Microsoft Learn Expert**
+**Microsoft Azure MVP | Microsoft Learn Expert**
 
 </div>
 
-G'day! I'm Luke, an ISM (Infrastructure, Security and Modern Workplace) Service Lead at HSO, specializing in the Microsoft ecosystem. As a [Microsoft MVP in Azure](https://mvp.microsoft.com/mvp/profile/d34dd21d-04c6-ec11-a7b5-0022482d3c49) and Microsoft Learn Expert, I help organizations design and implement secure, scalable cloud solutions that transform how they operate.
+G'day! I'm Luke, as a [Microsoft MVP in Azure](https://mvp.microsoft.com/mvp/profile/d34dd21d-04c6-ec11-a7b5-0022482d3c49) and Microsoft Learn Expert, I help organizations design and implement secure, scalable cloud solutions that transform how they operate.
 
 With over a decade of experience navigating the ever-evolving IT landscape, I'm passionate about Azure architecture, Infrastructure as Code, automation, and DevOps practices. I believe in the power of sharing knowledge through community contributions, technical presentations, and mentoring the next generation of cloud architects.
 
