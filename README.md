@@ -102,12 +102,6 @@ Highlights include:
 
 # 📈 GitHub Activity
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=lukemurraynz&hide_border=true)
-
-</div>
-
 ---
 
 <div align="center">
