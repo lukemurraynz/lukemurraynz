@@ -4,7 +4,7 @@
 
 # Luke Murray
 
-### Microsoft Azure MVP (6x) • Microsoft Learn Expert • Product Owner @ HSO
+### Microsoft Azure MVP • Microsoft Learn Expert
 
 Building Azure, AI and Microsoft Fabric solutions that solve real-world problems.
 
