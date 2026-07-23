@@ -33,7 +33,7 @@ Outside of work you'll usually find me contributing to open source, speaking at 
 
 # 🚀 Current Focus
 
-- 🤖 Microsoft AI Foundry & Agent Framework
+- 🤖 Microsoft Foundry & Agent Framework
 - ☁️ Azure Architecture & Landing Zones
 - 📊 Microsoft Fabric & Data Platforms
 - ⚙️ Platform Engineering
@@ -103,10 +103,6 @@ Highlights include:
 # 📈 GitHub Activity
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukemurraynz&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lukemurraynz&layout=compact&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=lukemurraynz&hide_border=true)
 
