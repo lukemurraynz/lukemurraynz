@@ -97,22 +97,10 @@ With over a decade of experience navigating the ever-evolving IT landscape, I'm 
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  
-![Luke's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukemurraynz&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lukemurraynz&theme=dark&hide_border=true&layout=compact&langs_count=8)
-
-</div>
 
 <div align="center">
   
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lukemurraynz&theme=react-dark&hide_border=true)
-
-</div>
-
-<div align="center">
-  
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=lukemurraynz&theme=onedark&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
